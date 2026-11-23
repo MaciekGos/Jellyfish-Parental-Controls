@@ -68,6 +68,3 @@ See the repository's license file for the full terms.
 
 ---
 
-<p align="center">
-  Made independently with <strong>Jellyfish</strong>.
-</p>

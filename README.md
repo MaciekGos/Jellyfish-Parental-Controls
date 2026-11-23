@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="logo.png" alt="Jellyfish logo" width="110">
+  <img src="logo.png" alt="Jellyfish logo" width="96">
 </p>
 
 <h1 align="center">Jellyfish Parental Controls</h1>
@@ -11,27 +11,34 @@
 </p>
 
 <p align="center">
-  <a href="https://jellyfish-controls.netlify.app/">Website</a> ·
-  <a href="https://github.com/MaciekGos/Jellyfish-Parental-Controls/releases">Download</a>
+  <a href="https://jellyfish-controls.netlify.app/">
+    <img src="https://api.iconify.design/ph/globe.svg?color=%23ffffff" width="16" alt="Website">
+    Website
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/MaciekGos/Jellyfish-Parental-Controls/releases">
+    <img src="https://api.iconify.design/ph/download-simple.svg?color=%23ffffff" width="16" alt="Download">
+    Download
+  </a>
 </p>
 
 ---
 
-## About
+## <img src="https://api.iconify.design/ph/info.svg?color=%23ffffff" width="20" alt=""> About
 
 Jellyfish is a free parental control application for Windows, designed to make screen-time management a little less frustrating for both parents and children.
 
 Instead of focusing only on restrictions, Jellyfish aims to make the experience more understandable and engaging.
 
-## Features
+## <img src="https://api.iconify.design/ph/sparkle.svg?color=%23ffffff" width="20" alt=""> Features
 
-- **Screen-time management** – manage how much time a child can spend on their Windows PC.
-- **Automatic locking** – the computer locks when the available time runs out.
-- **Interactive lock screen** – facts, puzzles and other activities make waiting more interesting.
-- **Parent interface** – manage settings and screen time from a separate parent-facing interface.
-- **Bring Your Own Database** – use your own database backend.
+- <img src="https://api.iconify.design/ph/clock.svg?color=%23ffffff" width="18" alt=""> **Screen-time management** – manage how much time a child can spend on their Windows PC.
+- <img src="https://api.iconify.design/ph/lock.svg?color=%23ffffff" width="18" alt=""> **Automatic locking** – the computer locks when the available time runs out.
+- <img src="https://api.iconify.design/ph/lightbulb.svg?color=%23ffffff" width="18" alt=""> **Interactive lock screen** – facts, puzzles and other activities make waiting more interesting.
+- <img src="https://api.iconify.design/ph/device-mobile.svg?color=%23ffffff" width="18" alt=""> **Parent interface** – manage settings and screen time from a separate parent-facing interface.
+- <img src="https://api.iconify.design/ph/database.svg?color=%23ffffff" width="18" alt=""> **Bring Your Own Database** – use your own database backend.
 
-## Download
+## <img src="https://api.iconify.design/ph/download-simple.svg?color=%23ffffff" width="20" alt=""> Download
 
 Get the latest version of Jellyfish for Windows:
 
@@ -41,7 +48,7 @@ Get the latest version of Jellyfish for Windows:
   </a>
 </p>
 
-## Website
+## <img src="https://api.iconify.design/ph/globe.svg?color=%23ffffff" width="20" alt=""> Website
 
 Learn more about Jellyfish, explore screenshots and read about the project:
 
@@ -51,7 +58,7 @@ Learn more about Jellyfish, explore screenshots and read about the project:
   </a>
 </p>
 
-## License
+## <img src="https://api.iconify.design/ph/scales.svg?color=%23ffffff" width="20" alt=""> License
 
 Jellyfish is proprietary software.
 
